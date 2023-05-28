@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+.html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.button {
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border-radius: 10px;
+  border: 2px solid black;
+  cursor: pointer;
+}
